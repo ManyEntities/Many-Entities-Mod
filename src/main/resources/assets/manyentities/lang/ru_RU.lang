@@ -1,0 +1,53 @@
+itemGroup.17=Many Entities
+
+#######Blocks#######
+tile.ancientjunglebricks.name=Древние джунглиевые кирпичи
+tile.lrianium_ore.name=Лрианиумовая руда
+tile.skeletontable.name=Активированный стол скелетов
+tile.Crystalls.name=Кристаллы
+tile.magictable.name=Стол скелетов
+tile.skeletonbars.name=Решётка скелетов
+tile.skeletonbrick.name=Кирпичи скелетов
+tile.notereader.name=Расшифровщик
+tile.sproutednetherrack.name=Проросший адский камень
+tile.nethertreeleaves.name=Листва адского дерева
+tile.nethertreelog.name=Адское дерево
+tile.nethertreesapling.name=Саженец адского дерева
+tile.netherplanks.name=Доски из адского дерева
+tile.lrianium_block.name=Лрианиумовый блок
+tile.netherstairs.name=Ступеньки из адского дерева
+tile.lrianium_stone.name=Лрианиумовый камень
+#######Items#######
+item.ancientpickaxe.name=Древняя кирка
+item.stonehandle.name=Каменная рукоять
+item.lrianium_ingot.name=Лрианиумовый слиток
+item.ancienthelmet.name=Древний шлем
+item.ancientplate.name=Древний нагрудник
+item.ancientpants.name=Древние поножи
+item.ancientboots.name=Дрение ботинки
+item.SkeletonBook.name=Книга скелетов
+item.iruasgem.name=Камень ируас
+item.enchantedskeletonbook.name=Зачарованная книга скелетов
+item.manyentitiesdarkessense.name=Тёмная эссенция
+item.reviverpowder.name=Оживляющий порошок
+item.netherberry.name=Незерика
+item.magiccape.name=Волшебный капюшон
+item.netherplantseed.name=Семена Незерики
+item.firstnote.name=Первая записка
+item.netherdoor.name=Дверь из адского дерева
+#######Mobs#######
+entity.Graag.name=Грааг
+entity.Three headed skeleton.name=Трёхголовый скелет
+#######Gui#######
+container.notereader=Расшифровщик
+text.desnotereader=Вы не выбрали ни одну записку
+
+
+
+
+
+
+
+
+
+

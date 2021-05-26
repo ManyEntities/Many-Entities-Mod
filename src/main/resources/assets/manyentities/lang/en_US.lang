@@ -1,0 +1,51 @@
+itemGroup.17=Many Entities
+
+#######Blocks#######
+tile.ancientjunglebricks.name=Ancient jungle bricks
+tile.lrianium_ore.name=Lrianium ore
+tile.skeletontable.name=Activated Skeleton's table 
+tile.Crystalls.name=Crystalls
+tile.magictable.name=Skeleton's table
+tile.skeletonbars.name=Skeleton's bars
+tile.skeletonbrick.name=Skeleton's brick
+tile.notereader.name=Note reader
+tile.sproutednetherrack.name=Sprouted netherrack
+tile.nethertreeleaves.name=Nether tree leaves
+tile.nethertreelog.name=Nether tree
+tile.nethertreesapling.name=Nether tree sapling
+tile.netherplanks.name=Nether tree planks
+tile.lrianium_block.name=Lrianium block
+tile.netherstairs.name=Nether tree stairs
+tile.lrianium_stone.name=Lrianium stone
+#######Items#######
+item.ancientpickaxe.name=Ancient pickaxe
+item.stonehandle.name=Stone handle
+item.lrianium_ingot.name=Lrianium ingot
+item.ancienthelmet.name=Ancient helmet
+item.ancientplate.name=Ancient plate
+item.ancientpants.name=Ancient pants
+item.ancientboots.name=Ancient boots
+item.SkeletonBook.name=Skeleton's book
+item.iruasgem.name=Iruas gem
+item.enchantedskeletonbook.name=Enchanted skeleton's book
+item.manyentitiesdarkessense.name=Dark essense
+item.reviverpowder.name=Reviver Powder
+item.netherberry.name=Nethberry
+item.magiccape.name=Magic Cape
+item.netherplantseed.name=Netrherberry seeds
+item.firstnote.name=First note
+item.netherdoor.name=Nether tree door
+#######Mobs#######
+entity.Graag.name=Graag
+entity.Three headed skeleton.name=Three Headed Skeleton
+#######Gui#######
+container.notereader=Note reader
+text.desnotereader=You have not selected any note
+
+
+
+
+
+
+
+
